@@ -82,6 +82,11 @@ Licence GNU GPL v3
   {
     color: #FF3D73 !important;
   }
+  
+  a:hover
+  {
+    color: #FDF5A9 !important;
+  }
 
   #main_link img,
   #logo a img,
